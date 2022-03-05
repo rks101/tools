@@ -1,6 +1,7 @@
 # tools
 Some cool tools and projects to use, re-use or fix! 
 
+[Project Euler](https://projecteuler.net/archives)   
 
 [HTTP requests](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java)   
 
