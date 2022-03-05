@@ -6,4 +6,7 @@ Some cool tools and projects to use, re-use or fix!
 
 [Axis](https://axis.apache.org/axis/java/user-guide.html)   
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+[Markdown files](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)   
+
+> This is how you display an image in dark/light mode    
+![electrocat](https://myoctocat.com/assets/images/base-octocat.svg#gh-dark-mode-only)   
