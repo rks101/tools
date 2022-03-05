@@ -3,7 +3,7 @@ Some cool tools and projects to use, re-use or fix!
 
 [Project Euler](https://projecteuler.net/archives)   
 
-[HTTP requests](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java)   
+[HTTP requests](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java) [Ex 2](https://www.javaguides.net/2018/10/apache-httpclient-post-http-request-example.html)   
 
 [Axis](https://axis.apache.org/axis/java/user-guide.html)   
 
