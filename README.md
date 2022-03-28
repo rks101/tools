@@ -1,6 +1,8 @@
 # tools
 Some cool tools and projects to use, re-use or fix! 
 
+[OS Query](https://github.com/osquery/osquery)   
+
 [Project Euler](https://projecteuler.net/archives)   
 
 [HTTP requests](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java), [Ex 2](https://www.javaguides.net/2018/10/apache-httpclient-post-http-request-example.html)   
