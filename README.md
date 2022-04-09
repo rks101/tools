@@ -11,6 +11,7 @@ Some cool tools and projects to use, re-use or fix!
 
 [10 fast fingers](10fastfingers.com)   
 
+[Push code from VS Code to GitHub repository](https://www.sachinsf.com/how-to-push-the-code-from-vs-code-to-github/    
 
 [Axis](https://axis.apache.org/axis/java/user-guide.html), writing a [sample SOAP web service](https://sarinduudagepalasblog.wordpress.com/2017/05/01/writing-soap-web-services-with-apache-axis2-maven-tomcat/)   
 
